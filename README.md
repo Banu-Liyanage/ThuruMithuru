@@ -1,5 +1,5 @@
 # ThuruMithuru
-readme_content = """\
+
 # 🌿 Thurumithuru Mobile App
 
 The **Thurumithuru Mobile App** is a mobile application built with React Native and powered by Supabase. It empowers users to record, monitor, and manage tree plantations, supporting sustainability and environmental initiatives with ease.
