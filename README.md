@@ -57,7 +57,7 @@ Always show details
 
 Copy
 npm install
-### 3. Setup Environment Variables
+## 3. Setup Environment Variables
 Create a .env file in the root:
 
 env
@@ -71,12 +71,14 @@ Never commit your .env file to GitHub.
 ### 4. Run the App
 Using Expo:
 
-bash
+```bash
 Always show details
 
 Copy
 npx expo start
-##🧠 Technologies Used
+
+```
+## 🧠 Technologies Used
 ⚛️ React Native
 
 🎨 Tailwind CSS
@@ -89,10 +91,15 @@ npx expo start
 
 🌍 TypeScript
 
-##🤝 Contributing
+
+🤝 Contributing
+---
+
 We welcome contributions! Please read the guidelines/Guidelines.md before submitting a pull request.
 
-##📜 License
+📜 License
+---
+
 This project is licensed under the MIT License. See Attributions.md for third-party resources and credits.
 """
 
@@ -108,3 +115,4 @@ Always show details
 Copy
 Result
 '/mnt/data/README.md'
+---
